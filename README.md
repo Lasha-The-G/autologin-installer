@@ -1,2 +1,2 @@
-Change user name to your username in the installer.
-And "chmod +x" the installer.
+"chmod +x" the installer. 
+And pass desired username as argument.
